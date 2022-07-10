@@ -2,8 +2,7 @@
 title: Chuer Chen
 role: ""
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Human-Computer Interaction
   - Visualization

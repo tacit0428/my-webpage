@@ -13,8 +13,9 @@ tags:
   - Path Tracking
 links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: CARLA simulator
   focal_point: Smart
+  filename: featured.png
 url_code: ""
 ---
 Build the vehicle kinematics model and dynamics model. Realized LQR controller and MPC controller based on the vehicle models to control the vehicle motion following the track.

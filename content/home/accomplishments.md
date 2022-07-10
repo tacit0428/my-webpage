@@ -31,21 +31,13 @@ item:
     organization_url: 
     title: 'Beijing Excellent Graduate'
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url:  https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2 
-    date_end: ''
-    date_start: '2020-03-04'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: 'Neural Networks and Deep Learning'
-    url: ''
   - certificate_url: 
     date_end: ''
     date_start: '2018-04-20'
     description: ''
     organization: Interdisciplinary Contest in Modeling (ICM)
     organization_url: 
-    title: 'Hornorable Mention'
+    title: 'Honorable Mention'
     url: ''
   - certificate_url: 
     date_end: '2018-09-20'

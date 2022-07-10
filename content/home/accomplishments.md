@@ -39,7 +39,7 @@ item:
     organization_url: https://www.coursera.org
     title: 'Neural Networks and Deep Learning'
     url: ''
-   - certificate_url: 
+  - certificate_url: 
     date_end: ''
     date_start: '2018-04-20'
     description: ''

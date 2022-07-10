@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: chuerchen1998@gmail.com
+    link: "#chuerchen1998@gmail.com"
   - icon: github
     icon_pack: fab
     link: https://github.com/tacit0428

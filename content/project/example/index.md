@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: ""
+summary: Find the most effective control algorithm for path tracking problem
 url_video: ""
 date: 2022-07-10T14:08:14.653Z
 external_link: ""

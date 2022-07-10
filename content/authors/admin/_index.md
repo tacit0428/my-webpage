@@ -14,9 +14,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tacit0428
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations: []
 education:
   courses:

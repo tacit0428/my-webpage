@@ -1,18 +1,22 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: ""
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2022-07-10T14:08:14.653Z
 external_link: ""
 url_slides: ""
-title: Example Project
+title: Control Strategies of Path Tracking Problem for Autonomous Driving
 tags:
-  - Deep Learning
+  - Reinforcement Learning
+  - Automatic Driving
+  - Path Tracking
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 url_code: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Build the vehicle kinematics model and dynamics model. Realized LQR controller and MPC controller based on the vehicle models to control the vehicle motion following the track.
+Introduced differentiable MPC algorithm and applied it to realize lateral control of the vehicle. PID controller was used as the longitudinal controller.
+Compared four controllers based on their performance of path tracking problem in CARLA simulator.

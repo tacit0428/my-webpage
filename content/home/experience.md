@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Front-End Engineer
+  - title: Front-end Engineer
     company: Alibaba Group
     company_url: ''
     company_logo: org-gc

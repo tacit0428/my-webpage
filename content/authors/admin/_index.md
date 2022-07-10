@@ -1,12 +1,12 @@
 ---
 title: Chuer Chen
 role: ""
+avatar_filename: 工牌1.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Visualization
+  - Human-Computer Interaction
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,13 +25,11 @@ education:
       year: 2021
     - course: BSc in Electronic Information
       institution: Beijing Institute of Technology
-      year: 2018
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
 ---
-Chuer Chen is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chuer Chen is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include . 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -5,8 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Visualization
   - Human-Computer Interaction
+  - Visualization
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,8 +31,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Chuer Chen received her MEng. degree from National University of Singapore in 2021. Her research interests include .  
+Chuer Chen received her MEng. degree in Electrical & Computer Engineering from National University of Singapore in 2021. Her research interests include human-computer interaction, visualization, data science.  She is currently in the gap year and searching for a Fall 2023 Ph.D.  opportunity. Before now, she worked at Alibaba Group as a front-end engineer.
 
-**I am looking for Research Assistant / Ph.D position.**
+**I am looking for a Research Assistant / Ph.D. position.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

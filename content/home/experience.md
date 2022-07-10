@@ -25,7 +25,7 @@ experience:
   - title: Front-end Engineer
     company: Alibaba Group
     company_url: ''
-    company_logo: org-gc
+    company_logo: Alibaba_group_logo
     location: Hangzhou
     date_start: '2021-07-07'
     date_end: '2022-05-18'

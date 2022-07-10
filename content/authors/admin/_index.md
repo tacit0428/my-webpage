@@ -30,8 +30,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Chuer Chen received her MEng. degree in Electrical & Computer Engineering from National University of Singapore in 2021. Her research interests include human-computer interaction, visualization, data science.  She is currently in the gap year and searching for a *Fall 2023 Ph.D.*  opportunity. Before now, she worked at Alibaba Group as a front-end engineer.
+Chuer Chen received her MEng. degree in Electrical & Computer Engineering from National University of Singapore in 2021. Her research interests include human-computer interaction, visualization, data science.  She is currently in the gap year and searching for a ***Fall 2023 Ph.D.***  opportunity. Before now, she worked at Alibaba Group as a front-end engineer.
 
-**I am looking for a Research Assistant / Ph.D. position.**
+**I am looking for a Research Assistant / Ph.D. position. Thank You!**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/chuerchen_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.

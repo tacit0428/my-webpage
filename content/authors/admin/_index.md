@@ -1,7 +1,7 @@
 ---
 title: Chuer Chen
 role: ""
-avatar_filename: 工牌1.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -30,6 +30,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Chuer Chen is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include . 
+Chuer Chen received her MEng. degree from National University of Singapore in 2021. Her research interests include .  
+
+**I am looking for Research Assistant / Ph.D position.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

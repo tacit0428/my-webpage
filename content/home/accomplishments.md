@@ -26,10 +26,10 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2020-05-20'
-    description: Reward the top 5% fresh graduates in Beijing
+    description: 'Reward the top 5% fresh graduates in Beijing'
     organization: Beijing Municipal Education Commission
     organization_url: 
-    title: Beijing Excellent Graduate
+    title: 'Beijing Excellent Graduate'
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url:  https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2 
     date_end: ''
@@ -37,15 +37,23 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: 'Neural Networks and Deep Learning'
     url: ''
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+   - certificate_url: 
+    date_end: ''
+    date_start: '2018-04-20'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Interdisciplinary Contest in Modeling (ICM)
+    organization_url: 
+    title: 'Hornorable Mention'
+    url: ''
+  - certificate_url: 
+    date_end: '2018-09-20'
+    date_start: '2016-09-20'
+    description: 'Reward the top 5% students for outsanding comprehensive performance'
+    organization: Beijing Institute of Technology
+    organization_url: 
+    title: 'First-class Scholarship'
     url: ''
 
 design:

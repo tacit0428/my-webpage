@@ -25,20 +25,20 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-05-20'
+    description: Reward the top 5% fresh graduates in Beijing
+    organization: Beijing Municipal Education Commission
+    organization_url: 
+    title: Beijing Excellent Graduate
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - certificate_url:  https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2 
+    date_end: ''
+    date_start: '2020-03-04'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'

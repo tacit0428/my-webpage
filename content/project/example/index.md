@@ -18,6 +18,4 @@ image:
   filename: featured.png
 url_code: ""
 ---
-Build the vehicle kinematics model and dynamics model. Realized LQR controller and MPC controller based on the vehicle models to control the vehicle motion following the track.
-Introduced differentiable MPC algorithm and applied it to realize lateral control of the vehicle. PID controller was used as the longitudinal controller.
-Compared four controllers based on their performance of path tracking problem in CARLA simulator.
+In this project, path tracking control strategies are reviewed in terms of the kinematic and dynamic vehicle models used. LQR, MPC, and differentiable MPC methods are introduced in detail and realized in CARLA simulator to test the path tracking problem's performance. We show that the differentiable MPC, an end-to-end learning method, can also be used in the autonomous driving field with its advantages. Based on the comparison, the challenges and possible research direction are analyzed.

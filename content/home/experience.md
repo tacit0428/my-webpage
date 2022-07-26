@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: IDVx Lab, Tongji University
+    company_url: 'https://idvxlab.com/index.html'
+    company_logo: Alibaba_group_logo
+    location: Shanghai
+    date_start: '2022-07-18'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Developed Narrative Chart
+        
   - title: Front-End Engineer
     company: Alibaba Group
     company_url: ''

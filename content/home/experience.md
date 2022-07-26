@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: IDVx Lab, Tongji University
     company_url: 'https://idvxlab.com/index.html'
-    company_logo: Alibaba_group_logo
+    company_logo: tongji
     location: Shanghai
     date_start: '2022-07-18'
     date_end: ''

@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Conducted a research on creative music visualization 
         * Developed three basic charts for Narrative Chart
         * Developed a data report generation platform for Chinese table tenis team
-        * Conducted a research on music visualization
         
   - title: Front-End Engineer
     company: Alibaba Group

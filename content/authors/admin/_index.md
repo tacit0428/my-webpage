@@ -5,9 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Human-Computer Interaction
-  - AR/VR
-  - Visualization
-  - Ubiquitous Computing
+  - Data Visualization
+  - Intelligent System
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,7 +27,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Chuer Chen received her MSc degree in Electrical & Computer Engineering from National University of Singapore in 2021. Her research interests include human-computer interaction, AR/VR, visualization.  She is currently working in [IDVX Lab](https://idvxlab.com/), Tongji University as a research assistant and searching for a **Fall 2023 PhD**  opportunity. Before now, she worked at Alibaba Group as a front-end engineer.
+I received her MSc degree in Electrical & Computer Engineering from National University of Singapore in 2021. My research interests include human-computer interaction, data visualization. I aim to develop intelligent systems to assist users explore data and augment human-AI collaboration. I am currently working in [IDVX Lab](https://idvxlab.com/), Tongji University as a research assistant and searching for a **Fall 2023 PhD**  opportunity. Before now, I worked at Alibaba Group as a front-end engineer.
 
 **I am looking for a PhD position. Thank You!**
 

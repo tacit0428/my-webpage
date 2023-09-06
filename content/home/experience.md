@@ -28,7 +28,7 @@ experience:
     company_logo: tongji
     location: Shanghai
     date_start: '2022-07-18'
-    date_end: ''
+    date_end: '2023-08'
     description: |2-
         Responsibilities include:
         

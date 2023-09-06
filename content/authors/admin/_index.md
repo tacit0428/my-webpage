@@ -27,8 +27,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I received her MSc degree in Electrical & Computer Engineering from National University of Singapore in 2021. My research interests include human-computer interaction, data visualization. I aim to develop intelligent systems to assist users explore data and augment human-AI collaboration. I am currently working in [IDVX Lab](https://idvxlab.com/), Tongji University as a research assistant and searching for a **Fall 2023 PhD**  opportunity. Before now, I worked at Alibaba Group as a front-end engineer.
+I﻿ am a first-year PhD student at Tongji University with a focus on visualization. I am fortunate to be advised by Professor [Nan Cao ](http://nancao.org/)and part of the [IDVX Lab](https://idvxlab.com/)
 
-**I am looking for a PhD position. Thank You!**
+My research interests include data visualization, human-computer interaction. I aim to develop intelligent systems to assist users explore data and augment human-AI collaboration. Before now, I received her MSc degree in Electrical & Computer Engineering from National University of Singapore in 2021. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/chuerchen_cv.pdf" "newtab" >}}resume{{< /staticref >}}.

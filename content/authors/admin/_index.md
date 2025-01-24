@@ -31,4 +31,4 @@ I﻿ am a second-year PhD student at Tongji University with a focus on visualiza
 
 My research interests include data visualization, human-computer interaction. I aim to develop intelligent systems to assist users in generating visual content, while augmenting human-AI collaboration. Before now, I received her MSc degree in Electrical & Computer Engineering from National University of Singapore in 2021. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/chuerchen_cv.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resume{{< /staticref >}}.

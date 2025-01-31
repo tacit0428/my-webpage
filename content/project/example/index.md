@@ -1,21 +1,20 @@
 ---
 slides: example
 url_pdf: ""
-summary: Find the most effective control algorithm for path tracking problem
+summary: MusicJam generates narrative illustrations from music by transforming lyrics into visuals, synced with music in MP4 videos.
 url_video: ""
 date: 2022-07-10T14:08:14.653Z
 external_link: ""
 url_slides: ""
-title: Control Strategies of Path Tracking Problem for Autonomous Driving
+title: MusicJam: Visualizing Music Insights via Generated Narrative Illustrations
 tags:
-  - Reinforcement Learning
-  - Automatic Driving
-  - Path Tracking
+  - Music Visualization
+  - Lyric Generation
 links: []
 image:
-  caption: CARLA simulator
+  caption: Lyric generation model
   focal_point: Smart
-  filename: featured.png
+  filename: musicjam_lyric.png
 url_code: ""
 ---
-In this project, path tracking control strategies are reviewed in terms of the kinematic and dynamic vehicle models used. LQR, MPC, and differentiable MPC methods are introduced in detail and realized in CARLA simulator to test the path tracking problem's performance. We show that the differentiable MPC, an end-to-end learning method, can also be used in the autonomous driving field with its advantages. Based on the comparison, the challenges and possible research direction are analyzed.
+We introduce MusicJam, a music visualization system that is able to generate narrative illustrations to represent the insight of the input music. The system leverages a novel generation model designed based on GPT-2 to generate meaningful lyrics given the input music and then employs the stable diffusion model to transform the lyrics into coherent illustrations. Finally, the generated results are synchronized and rendered as an MP4 video accompanied by the input music. We evaluated the proposed lyric generation model by comparing it to the baseline models and conducted a user study to estimate the quality of the generated illustrations and the final music videos. The results showed the power of our technique.

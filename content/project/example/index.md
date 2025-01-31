@@ -6,7 +6,7 @@ url_video: ""
 date: 2022-07-10T14:08:14.653Z
 external_link: ""
 url_slides: ""
-title: MusicJam: Visualizing Music Insights via Generated Narrative Illustrations
+title: MusicJam - Visualizing Music Insights via Generated Narrative Illustrations
 tags:
   - Music Visualization
   - Lyric Generation

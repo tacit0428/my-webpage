@@ -1,5 +1,5 @@
 ---
-title: MV-Crafter: An Intelligent System for Music-guided Video Generation
+title: MV-Crafter - An Intelligent System for Music-guided Video Generation
 date: 2022-07-11T02:11:24.790Z
 summary: A system capable of producing high-quality music videos with synchronized music-video rhythm and style
 draft: false

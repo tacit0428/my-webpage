@@ -1,19 +1,17 @@
 ---
-title: Self-Powered Triboelectric-Based Smart Gloves for Hand  Gesture
-  Recognition Using Deep Learning
+title: MV-Crafter: An Intelligent System for Music-guided Video Generation
 date: 2022-07-11T02:11:24.790Z
-summary: Application of the power-generation device called a triboelectric
-  nanogenerator (TENG)
+summary: A system capable of producing high-quality music videos with synchronized music-video rhythm and style
 draft: false
 featured: false
 tags:
-  - Triboelectric Nanogenerator
-  - Deep Learning
-  - HCI
+  - Music Videos
+  - Synchronization
+  - Human Computer Interaction
 image:
-  filename: featured.png
+  filename: pipeline.png
   focal_point: Smart
   preview_only: false
-  caption: Smart gloves is controlling the cube in AR environment
+  caption: The pipeline of MV-Crafter
 ---
-In this project, a smart glove human-machine interface integrated with contact-separation TENGs was proposed to realize the hand gesture recognition and control of 3D objects in AR environment. The designed TENGs can monitor the bending and the movements of fingers and generate signals. After the signal acquisition and processing module, convolutional neural network (CNN) was proposed to extract features and realize hand gesture recognition based on the TENGs generated signals. Next, three simple AR scenes were established. The recognition results were transmitted by TCP/IP from deep learning model to AR environment and then achieved the control of 3D objects in real time.
+We present MV-Crafter, a system capable of producing high-quality music videos with synchronized music-video rhythm and style. Our approach involves three technical modules that simulate the human creation process: the script generation module, video generation module, and music-video synchronization module. MV-Crafter leverages a large language model to generate scripts considering the musical semantics. To address the challenge of synchronizing short video clips with music of varying lengths, we propose a dynamic beat matching algorithm and visual envelope-induced warping method to ensure precise, monotonic music-video synchronization. Besides, we design a user-friendly interface to simplify the creation process with intuitive editing features. Extensive experiments have demonstrated that MV-Crafter provides an effective solution for improving the quality of generated music videos.

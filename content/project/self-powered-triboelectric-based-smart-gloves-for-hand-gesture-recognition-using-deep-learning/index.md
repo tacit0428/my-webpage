@@ -9,7 +9,7 @@ tags:
   - Synchronization
   - Human Computer Interaction
 image:
-  filename: pipeline.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: The pipeline of MV-Crafter
